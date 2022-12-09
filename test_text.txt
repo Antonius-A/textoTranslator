@@ -1,0 +1,1 @@
+Hey there reader, this is a test text. My name is Anthony and I'm a Python and Javascript developper. If you like my work, contact me on LinkedIn: https://www.linkedin.com/in/anthony-aboussafy/ or view my github: https://github.com/Antonius-A and star my projects. Have fun!
